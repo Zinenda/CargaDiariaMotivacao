@@ -1,0 +1,22 @@
+backend:
+  name: git-gateway
+  use_large_media_transforms_in_media_library: false
+
+media_folder: 'assets/uploads'
+
+logo_url: 'https://d33wubrfki0l68.cloudfront.net/f1afd154dd1bd09e6957dce7291bfc56834b4489/b2edb/assets/img/brand/logo.svg'
+
+collections:
+  - label: "Posts"
+    name: "posts"
+    folder: collections/_posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Titulo", name: "title", widget: "string"}
+      - {label: "Data", name: "date", widget: "datetime"}
+      - {label: "Categoria", name: "category", widget: "string"}
+      - {label: "Tag", name: "tag", widget: "string"}
+      - {label: "Imagem", name: "image", widget: "image"}
+      - {label: "Layout", name: "layout", default: "post", widget: "hidden"}
+      - {label: "Corpo", name: "body", widget: "markdown"}

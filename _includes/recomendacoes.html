@@ -1,0 +1,11 @@
+<aside class="d-none d-sm-block card" style="width: 18rem;">
+    <div class="card-header bolder">Recomendações</div>
+
+    <ul class="list-group list-group-flush">
+        {% for tag in site.posts limit: 4 %}
+            <li class="list-group-item">
+                <a href="{{ tag.url }}" title="{{ tag.title }}">{{ tag.title }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</aside>

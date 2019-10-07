@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{% include posts_layout/post-header.html %}
+
+<section id="blog" class="section scrollspy row">
+    <div class="container">
+        <article class="col s12 l8">
+            <div class="card-panel text-justified grey-text text-darken-4">
+                {{ content }}
+    
+                {% include posts_layout/pagination.html %}
+            </div>
+        </article>
+    
+        <div class="hide-on-small-only col l4">
+            {% include posts_layout/related_posts.html %}
+        </div>
+    </div>
+</section>

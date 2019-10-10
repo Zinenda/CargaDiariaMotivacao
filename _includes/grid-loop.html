@@ -1,7 +1,7 @@
 <section class="section">
     <div class="container section-grid">
         {% for post in paginator.posts offset: 1 %}
-            <article class="card-panel hoverable" data-aos="zoom-in" data-aos-duration="3000" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ post.image }}?nf_fit&w=250); background-size: cover; background-position: center;">
+            <article class="card-panel hoverable" style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ post.image }}?nf_fit&w=250); background-size: cover; background-position: center;">
                 <a href="{{ post.url }}" class="white-text">
                     <p class="bolder flow-text">{{ post.title }}</p>
                 </a>

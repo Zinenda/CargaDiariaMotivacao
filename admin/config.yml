@@ -9,13 +9,16 @@ logo_url: 'https://izitech.co/assets/img/IZIlogo.svg'
 collections:
   - label: "Posts"
     name: "posts"
-    folder: collections/_posts
+    folder: _posts
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Titulo", name: "title", widget: "string"}
       - {label: "Data", name: "date", widget: "datetime"}
-      - {label: "Categoria", name: "category", widget: "string"}
+      - label: "Categorias"
+        name: "category"
+        widget: "list"
+        options: ["Empreendedores", "Saude", "Pessoal"]
       - {label: "Tag", name: "tag", widget: "string"}
       - {label: "Imagem", name: "image", widget: "image"}
       - {label: "Layout", name: "layout", default: "post", widget: "hidden"}

@@ -1,7 +1,10 @@
 nav {
-    .brand-logo {
-        svg {
-            max-height: 60px;
+    .nav-wrapper {
+        a.brand-logo {
+            svg {
+                height: 60px;
+                padding-top: 10px;
+            }
         }
     }
 }

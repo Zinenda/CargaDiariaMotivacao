@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $('.sidenav').sidenav();
-    $('.slider').slider();
+    $('.scrollspy').scrollSpy();
     $('.tooltipped').tooltip();
     $('.fixed-action-btn').floatingActionButton();
     $('.modal').modal();
@@ -11,7 +11,4 @@ $(document).ready(function(){
       columnWidth: '.col',
       itemSelector: '.col',
     });
-
-    window.sr = ScrollReveal({ duration: 2000 });
-    sr.reveal('.sequeal-reveal', 50);
 });

@@ -12,9 +12,14 @@ main {
     flex: 1 0 auto;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-weight: bolder;
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
     font-family: 'PT Serif', serif;
+    font-weight: bolder;
 }
 
 .bold {

@@ -4,5 +4,4 @@ _site
 node_modules
 # Local Netlify folder
 .netlify
-Gemfile.lock
 vendor

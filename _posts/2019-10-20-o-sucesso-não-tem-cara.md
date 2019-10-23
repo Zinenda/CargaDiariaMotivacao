@@ -3,7 +3,7 @@ title: O Sucesso não tem Cara
 date: 2019-10-20T17:41:43.297Z
 category: Empreendedores
 tag: empreendedores empreendedoras sucesso dinheiro saude bem estar
-image: /assets/uploads/imagem-para-artigos.png
+image: /assets/uploads/adult-black-and-white-blur-2024901.jpg
 layout: post
 ---
 

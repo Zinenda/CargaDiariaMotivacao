@@ -4,7 +4,7 @@ date: 2019-12-22T09:26:49.722Z
 category:
   - Motivação Pessoal
 tag: 'motivacao pessoal '
-image: /assets/uploads/guardar.png
+image: /assets/uploads/saude-mental.png
 layout: post
 ---
 **1. NÃO COMPARE A VIDA DOS OUTROS NO INSTAGRAM COM A SUA**

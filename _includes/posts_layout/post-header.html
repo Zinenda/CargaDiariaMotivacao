@@ -1,23 +1,23 @@
 <style>
     {% capture include_to_scssify %}
-            .hero-header {
-                position: relative;
-                text-align: center;
-                height: 80vh;
+        .hero-header {
+            position: relative;
+            text-align: center;
+            height: 80vh;
 
-                background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("{{ page.image }}?nf_resize=fit&w=1280&h=720");
-                background-position: center;
-                background-attachment: fixed;
-                background-size: cover;
-                background-repeat: no-repeat;
+            background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("{{ page.image }}?nf_resize=fit&w=1280&h=720");
+            background-position: center;
+            background-attachment: scroll;
+            background-size: cover;
+            background-repeat: no-repeat;
 
-                .hero-content {
-                    position: absolute;
-                    left: 50%;
-                    top: 50%;
-                    transform: translate(-50%, -50%);
-                }
+            .hero-content {
+                position: absolute;
+                left: 50%;
+                top: 50%;
+                transform: translate(-50%, -50%);
             }
+        }
     {% endcapture %}
     {{ include_to_scssify | scssify }}
 </style>

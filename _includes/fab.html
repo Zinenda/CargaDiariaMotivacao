@@ -1,7 +1,15 @@
-<div class="hide-on-large-only">
-    <div class="fixed-action-btn">
-        <a data-target="sideNav" class="btn-floating btn-large sidenav-trigger waves-effect waves-circle waves-light">
-            <i class="fas fa-bars"></i>
-        </a>
+<div class="fixed-action-btn">
+    <div class="center">
+        <button data-target="shareModal" class="btn-floating btn-large waves-effect waves-circle waves-light modal-trigger">
+            <i class="fas fa-lg fa-share"></i>
+        </button>
+    </div>
+</div>
+
+<div class="modal" id="shareModal">
+    <div class="modal-content">
+        <div class="center container">
+            {% include addtoany/addtoany.html %}
+        </div>
     </div>
 </div>

@@ -12,6 +12,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  
+ paginate: 20
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -30,13 +32,3 @@ sass:
   style: compressed
 
 image: /assets/img/logobranco.svg
-
-pagination:
-  enabled: true
-  per_page: 16
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-  trail: 
-    before: 2
-    after: 2

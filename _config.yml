@@ -11,7 +11,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-analytics
   - jekyll-paginate-v2
 
 # Exclude from processing.
@@ -41,8 +40,3 @@ pagination:
   trail: 
     before: 2
     after: 2
-
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: ca-pub-5935260290806776          # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking

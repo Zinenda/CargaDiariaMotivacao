@@ -11,9 +11,21 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-paginate
-  
- paginate: 20
+  - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+  per_page: 20
+  permalink: '/:num/'
+  title: ':title | :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+ # extension: htm
+ # indexpage: 'default'
+  trail: 
+    before: 2
+    after: 2
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

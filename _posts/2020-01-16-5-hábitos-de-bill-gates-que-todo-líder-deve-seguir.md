@@ -4,7 +4,7 @@ date: 2020-01-16T12:36:35.481Z
 category:
   - Empreendedores
 tag: Empreendedores Sucesso dinheiro saude livros
-image: /assets/uploads/bill.png
+image: /assets/uploads/billll.png
 layout: post
 ---
 Se você fizer uma mini-pesquisa em seu escritório e pedir às pessoas para nomearem as três pessoas mais influentes do mundo, Bill Gates provavelmente aparecerá em todas as respostas.

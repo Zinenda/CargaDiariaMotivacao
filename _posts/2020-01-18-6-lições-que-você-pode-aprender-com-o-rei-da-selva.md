@@ -13,7 +13,7 @@ Mas a vida deles é cheia de obstáculos e problemas. Há menos espaço para err
 
 Então, o que os motiva a não se render à vida dura? A resposta é sobrevivência. A única coisa que os mantém em movimento é a sobrevivência. Muitos leões perdem seu reinado, filhos e rainhas para outros leões, mas nunca desistem da vida.
 
-##### AQUI ESTÃO SEIS LIÇÕES QUE VOCÊ PODE APRENDER COM O REI DA SELVA:
+###### AQUI ESTÃO SEIS LIÇÕES QUE VOCÊ PODE APRENDER COM O REI DA SELVA:
 
 **1. Seu objetivo é a única maneira de sobreviver** 
 

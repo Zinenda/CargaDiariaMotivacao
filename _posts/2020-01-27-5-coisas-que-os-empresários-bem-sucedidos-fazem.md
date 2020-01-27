@@ -23,15 +23,11 @@ Para tornar seu sonho realidade, você deve ter um plano. Faça um plano na form
 
 > “Ou você corre o dia ou o dia o executa.” - Jim Rohn
 
-
-
 **2. Abrace novos desafios**
 
 Quando surgem desafios, os empreendedores de sucesso assumem a responsabilidade de lidar e lidar com isso de maneira inteligente. Isso os ajuda a superar o obstáculo mais preocupante para o sucesso.
 
 Os desafios estão sempre presentes, mas os empreendedores de sucesso os consideram oportunidades incríveis. É o momento em que você deve seguir em frente e fazer o que ninguém mais conseguirá alcançar o sucesso. Quando você estiver animado com uma oportunidade, mas acha que pode enfrentar riscos, pergunte-se "Quais são as possíveis deficiências?". Isso pode ajudá-lo a se tornar mais consciente.
-
-
 
 **3. Quando se trata de correr riscos, eles simplesmente fazem**
 
@@ -40,8 +36,6 @@ Quando se trata de correr riscos, os empreendedores confiam em seus instintos. D
 Não deixe que o medo o impeça de fazer o que você quer. Quando você estiver com muito medo de correr riscos, converse com alguém para ouvir algumas palavras de sabedoria para dar o salto. Não há como eliminar o risco do empreendedorismo, mas a melhor maneira de lidar com isso é permitindo que você o alimente.
 
 > "Precisamos fazer um trabalho melhor para nos colocarmos mais elevados na nossa lista de 'tarefas'". - Michelle Obama
->
->
 
 **4. Mantenha-se preparado para mudar de marcha**
 
@@ -51,7 +45,7 @@ O jogo do empreendedorismo é difícil. Aqueles que são bem-sucedidos entendem 
 
 Quando você acha que alcançou um novo nível, tudo pode mudar repentinamente e você terá que endurecer ou deixar tudo ir. Eles atendem às necessidades do mercado e, conforme as necessidades mudam, eles também mudam.
 
-Assim como os co-fundadores do Instagram, Kevin Systrom e Mike Krieger, decidiram se separar de seu bebê cibernético e seguir para a próxima inovação. Esta foi uma notícia chocante, mas é incomum que pessoas de negócios mudem de direção para obter algo novo. Sua ideia pode falhar, assim como a de muitos empreendedores de sucesso, mas não se deixe intimidar pelo fracasso. Ser capaz de reconhecer e moldar a próxima ideia em algo realmente ótimo.
+Assim como os co-fundadores do Instagram, [Kevin Systrom](https://cargamotivacional.com/empreendedores/2020/01/27/quem-%C3%A9-kevin-systrom/) e Mike Krieger, decidiram se separar de seu bebê cibernético e seguir para a próxima inovação. Esta foi uma notícia chocante, mas é incomum que pessoas de negócios mudem de direção para obter algo novo. Sua ideia pode falhar, assim como a de muitos empreendedores de sucesso, mas não se deixe intimidar pelo fracasso. Ser capaz de reconhecer e moldar a próxima ideia em algo realmente ótimo.
 
 **5. Cultive "um cérebro externo"**
 

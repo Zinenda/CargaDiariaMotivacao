@@ -17,7 +17,7 @@ Por exemplo, se você deseja aprender a escrever, seja específico sobre o tipo 
 
 **2. Crie o ciclo de feedback** 
 
-O autor do livro *“Pensando Rápido e Lento”*,  (Daniel Kahneman), disse: “A rapidez com que você aprende coisas novas depende da qualidade e velocidade do ciclo de feedback que você criou para si mesmo”.
+O autor do livro *[“Pensando Rápido e Lento”](https://pt.wikipedia.org/wiki/R%C3%A1pido_e_Devagar)*,  ([Daniel Kahneman](https://pt.wikipedia.org/wiki/Daniel_Kahneman)), disse: “A rapidez com que você aprende coisas novas depende da qualidade e velocidade do ciclo de feedback que você criou para si mesmo”.
 
 O ciclo de feedback é exatamente como você descobre suas fraquezas e pontos fortes. O que aconteceu ontem, aconteceu! Você não pode mudar o passado, mas pode extrair as lições do passado para construir o futuro que você merece.
 

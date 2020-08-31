@@ -3,4 +3,7 @@ $(document).ready(function(){
     $('.scrollspy').scrollSpy();
     $('.fixed-action-btn').floatingActionButton();
     $('.modal').modal();
+
+    // init Lazy Image Load
+	$('.lazy').lazy();
 });
